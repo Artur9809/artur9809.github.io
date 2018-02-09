@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<title>Tshort Shop</title>
+<meta charset="utf-8">
+
+   <style>
+
+   body {
+    background: #c7b39b url(kosmos.jpg); 
+    color: #fff; 
+   }
+  </style>
+       
+	  
+</head>
+   <body  vlink="white" link="white" alink="orange">
+   
+     <a href="http://vk.com/feed"><img src="ava.jpg" Align="left"></a>
+	 
+	<h1 align="center">T-Short Shop</p>
+	<a href="http://vk.com/feed" target="_blank">VK link</a>
+	<marquee><img src="corgiswimflip.gif">
+	<marquee><img src="giphy.gif">
+	
+</body>
+
+</html>
